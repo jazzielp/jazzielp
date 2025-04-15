@@ -10,7 +10,7 @@ I am a Software Engineer with over 9 years of experience and more than 1 year of
 * 🖥️  See my portfolio at [Jazziel Puente](http://jazziel.dev/)
 * ✉️  You can contact me at [jazziel.puente.v@gmail.com](mailto:jazziel.puente.v@gmail.com)
 * 🧠  I'm learning NextJS
-* 🤝  I'm open to collaborating on Proyectos web tanto en aplicaciones web como en landig pages
+* 🤝  I'm open to collaborating on web projects, including both web applications and landing pages.
 
 <a href="https://www.x.com/hpuente06" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hpuente06?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
